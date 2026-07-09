@@ -21,8 +21,10 @@
 # (
 # e para eu (igor) nao esquer os riquisitos da recoperacao.
 #tem poucos lansamento no github pois so quosiquir botar o codico so acora. 
-#descupa si nao tiver muito lanamento no github . asinado igor carlos da silva
+#descupa si nao tiver muitos lanamento no github .
+# e eu jatha vasido um pouco em casa . asinado (igor carlos da silva)
 # )
+
 
 import json
 
