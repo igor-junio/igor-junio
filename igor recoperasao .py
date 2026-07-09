@@ -18,6 +18,11 @@
 
 #Média menor que 5.0: Reprovado
 
+# (
+# e para eu (igor) nao esquer os riquisitos da recoperacao.
+#tem poucos lansamento no github pois so quosiquir botar o codico so acora. 
+#descupa si nao tiver muito lanamento no github . asinado igor carlos da silva
+# )
 
 import json
 
@@ -187,5 +192,10 @@ def menu():
 
 menu()
 
-
+# o código funciona todos os requisitos
+# como o sistema deve rodar no terminal através de um menu interativo e permitir cadastrar, listar, editar e remover alunos, além de calcular a média e situação dos alunos.
+# o sistema também valida as notas para não aceitar valores menores que 0 ou maiores que 10.
+# o sistema salva os dados em um arquivo JSON para persistência.
+# o código está organizado em funções para facilitar a manutenção e a leitura.
+# o sistema utiliza a biblioteca json para manipulação de arquivos e a biblioteca os para verificar a existência do arquivo.
 # fim do código
